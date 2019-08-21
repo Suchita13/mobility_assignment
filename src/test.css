@@ -1,0 +1,10 @@
+.detailForm{
+  margin: 20px;
+}
+
+input{
+  margin-bottom: 5px;
+  height: 20px;
+  border: 1px solid #d8d8d8;
+  padding: 3px;
+}
